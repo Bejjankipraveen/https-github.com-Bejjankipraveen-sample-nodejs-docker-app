@@ -1,1 +1,2 @@
-# https-github.com-Bejjankipraveen-sample-nodejs-docker-app
+# sample-nodejs-docker-app
+Sample Node.js Docker Hello Application
